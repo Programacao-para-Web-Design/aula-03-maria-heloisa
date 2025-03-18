@@ -2,26 +2,3 @@
 <html long= "pt-br">
    <head>
          <meta charset= "utf-8">
-         <title> Site de RPG regras básicas </title>
-   </head>
-   <body>
-         <h1> SEJA BEM VINDO </h1>
-
-         <h2> Lista do que precisa em um RPG </h2>
-            <ol>
-	        <li> Amigos </li>
-                <li> Cenario </li>
-                <li> Dados </li>
-	    </ol>
-
-         <h2> Regras </h2>
-             <ul> 
-                <li> Respeitar o jogador. </li>
-                <li> Existe uma história, siga-a! Não saia do contexto do RPG. </li>
-                <li> Se a ação for impresionante você pode desconciderar os dados. </li> 
-             </ul> 
-
-         <h2> RPG </h2>
-         <img src="https://i.pinimg.com/736x/84/64/5d/84645dc3d38f62e1c4256e772f9691a1.jpg"> 
-   </body>
-</html>
